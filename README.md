@@ -1,6 +1,6 @@
 # meta
 
-A standard set of gem release tools for Rails and its sub-projects.
+A standard set of gem maintence and release tools for Rails and its sub-projects.
 
 ---
 
