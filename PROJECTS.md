@@ -2,7 +2,7 @@
   - [x] Badges at top of Readme
   - [x] Changelog.md
   - [x] Contributing.md
-  - [ ] Remove RubyForge from gemspec
+  - [x] Remove RubyForge from gemspec
   
 ---
 
