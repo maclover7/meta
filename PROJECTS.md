@@ -6,10 +6,54 @@
   
 ---
 
+- [ActionCable](https://github.com/rails/actioncable)
+  - [x] Badges at top of Readme
+  - [ ] Changelog.md
+  - [ ] Contributing.md
+  - [x] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [ActiveModelSerializersXML](https://github.com/rails/activemodel-serializers-xml)
+  - [x] Badges at top of Readme
+  - [ ] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [ActsAsList](https://github.com/rails/acts_as_list)
+  - [ ] delete respository, no longer in use
+- [Arel](https://github.com/rails/arel)
+  - [x] Badges at top of Readme
+  - [ ] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
 - [ExecJS](https://github.com/rails/execjs)
   - [ ] Badges at top of Readme
   - [ ] Changelog.md
   - [x] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [GlobalID](https://github.com/rails/gobalid)
+  - [x] Badges at top of Readme
+  - [x] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [JBuilder](https://github.com/rails/jbuilder)
+  - [x] Badges at top of Readme
+  - [x] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [JQuery UJS](https://github.com/rails/jquery-ujs)
+  - [ ] Badges at top of Readme
+  - [x] Changelog.md
+  - [ ] Contributing.md
   - [ ] Remove RubyForge from gemspec
   - [ ] License
   - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
@@ -48,6 +92,8 @@
   - [ ] Remove RubyForge from gemspec
   - [ ] License
   - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [Strong Parameters](https://github.com/rails/strong_parameters)
+  - Get deprecation notes ready (gem is only meant for upgrading 3 --> 4)
 - [Turbolinks](https://github.com/rails/turbolinks)
   - [x] Badges at top of Readme
   - [x] Changelog.md
