@@ -8,40 +8,67 @@
 
 **Remove from Rails organization**
 
-https://github.com/rails/actionpack-xml_parser
-https://github.com/rails/activejob
-https://github.com/rails/activemodel-globalid
-https://github.com/rails/acts_as_list
-https://github.com/rails/conductor
-https://github.com/rails/dynamic_form
-https://github.com/rails/exception_notification
-https://github.com/rails/open_id_authentication
-https://github.com/rails/verification
+- [ ] https://github.com/rails/account_location
+- [ ] https://github.com/rails/actionpack-xml_parser
+- [ ] https://github.com/rails/activejob
+- [ ] https://github.com/rails/activemodel-globalid
+- [ ] https://github.com/rails/acts_as_list
+- [ ] https://github.com/rails/acts_as_nested_set
+- [ ] https://github.com/rails/acts_as_tree
+- [ ] https://github.com/rails/asset_server
+- [ ] https://github.com/rails/atom_feed_helper
+- [ ] https://github.com/rails/auto_complete
+- [ ] https://github.com/rails/conductor
+- [ ] https://github.com/rails/continuous_builder
+- [ ] https://github.com/rails/country_select
+- [ ] https://github.com/rails/deadlock_retry
+- [ ] https://github.com/rails/dynamic_form
+- [ ] https://github.com/rails/exception_notification
+- [ ] https://github.com/rails/fcgi_handler
+- [ ] https://github.com/rails/hide_action
+- [ ] https://github.com/rails/http_authentication
+- [ ] https://github.com/rails/in_place_editing
+- [ ] https://github.com/rails/irs_process_scripts
+- [ ] https://github.com/rails/iso-3166-country-select
+- [ ] https://github.com/rails/javascript_test
+- [ ] https://github.com/rails/localization
+- [ ] https://github.com/rails/open_id_authentication
+- [ ] https://github.com/rails/render_component
+- [ ] https://github.com/rails/request_profiler
+- [ ] https://github.com/rails/scaffolding
+- [ ] https://github.com/rails/scriptaculous_slider
+- [ ] https://github.com/rails/sqlite2_adapter
+- [ ] https://github.com/rails/ssl_requirement
+- [ ] https://github.com/rails/token_generator
+- [ ] https://github.com/rails/tzinfo_timezone
+- [ ] https://github.com/rails/tztime
+- [ ] https://github.com/rails/upload_progress
+- [ ] https://github.com/rails/verification
 
 ---
 
 **Deprecate? / Future?**
 
-https://github.com/rails/actionpack-page_caching
-https://github.com/rails/activerecord-deprecated_finders
-https://github.com/rails/activesupport-json_encoder
-https://github.com/rails/cache_digests
-https://github.com/rails/coffee-rails
-https://github.com/rails/commands
-https://github.com/rails/etagger
-https://github.com/rails/journey
-https://github.com/rails/pjax_rails
-https://github.com/rails/prototype_legacy_helper
-https://github.com/rails/prototype-rails
-https://github.com/rails/prototype-ujs
-https://github.com/rails/rails-controller-testing
-https://github.com/rails/rails-deprecated_sanitizer
-https://github.com/rails/rails-observers
-https://github.com/rails/rails_upgrade
-https://github.com/rails/rails_xss
-https://github.com/rails/record_tag_helper
-https://github.com/rails/routing_concerns
-https://github.com/rails/ruby-coffee-script
+- [ ] https://github.com/rails/actionpack-page_caching
+- [ ] https://github.com/rails/activerecord-deprecated_finders
+- [ ] https://github.com/rails/activesupport-json_encoder
+- [ ] https://github.com/rails/cache_digests
+- [ ] https://github.com/rails/coffee-rails
+- [ ] https://github.com/rails/commands
+- [ ] https://github.com/rails/etagger
+- [ ] https://github.com/rails/journey
+- [ ] https://github.com/rails/pjax_rails
+- [ ] https://github.com/rails/prototype_legacy_helper
+- [ ] https://github.com/rails/prototype-rails
+- [ ] https://github.com/rails/prototype-ujs
+- [ ] https://github.com/rails/rails-controller-testing
+- [ ] https://github.com/rails/rails-deprecated_sanitizer
+- [ ] https://github.com/rails/rails-observers
+- [ ] https://github.com/rails/rails_upgrade
+- [ ] https://github.com/rails/rails_xss
+- [ ] https://github.com/rails/record_tag_helper
+- [ ] https://github.com/rails/routing_concerns
+- [ ] https://github.com/rails/ruby-coffee-script
 
 
 ---
