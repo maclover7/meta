@@ -9,7 +9,6 @@
 **Remove from Rails organization**
 
 - [ ] https://github.com/rails/account_location
-- [ ] https://github.com/rails/actionpack-xml_parser
 - [ ] https://github.com/rails/activejob
 - [ ] https://github.com/rails/activemodel-globalid
 - [ ] https://github.com/rails/acts_as_list
@@ -33,6 +32,7 @@
 - [ ] https://github.com/rails/javascript_test
 - [ ] https://github.com/rails/localization
 - [ ] https://github.com/rails/open_id_authentication
+- [ ] https://github.com/rails/prototype_legacy_helper
 - [ ] https://github.com/rails/render_component
 - [ ] https://github.com/rails/request_profiler
 - [ ] https://github.com/rails/scaffolding
@@ -50,6 +50,7 @@
 **Deprecate? / Future?**
 
 - [ ] https://github.com/rails/actionpack-page_caching
+- - [ ] https://github.com/rails/actionpack-xml_parser
 - [ ] https://github.com/rails/activerecord-deprecated_finders
 - [ ] https://github.com/rails/activesupport-json_encoder
 - [ ] https://github.com/rails/cache_digests
@@ -58,7 +59,6 @@
 - [ ] https://github.com/rails/etagger
 - [ ] https://github.com/rails/journey
 - [ ] https://github.com/rails/pjax_rails
-- [ ] https://github.com/rails/prototype_legacy_helper
 - [ ] https://github.com/rails/prototype-rails
 - [ ] https://github.com/rails/prototype-ujs
 - [ ] https://github.com/rails/rails-controller-testing
