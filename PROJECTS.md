@@ -1,7 +1,7 @@
 - [Rails](https://github.com/rails/rails): The framework itself!
-  - [ ] Badges at top of Readme
-  - [ ] Changelog.md
-  - [ ] Contributing.md
+  - [x] Badges at top of Readme
+  - [x] Changelog.md
+  - [x] Contributing.md
   - [ ] Remove RubyForge from gemspec
   
 ---
