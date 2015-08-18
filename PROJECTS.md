@@ -6,6 +6,46 @@
   
 ---
 
+**Remove from Rails organization**
+
+https://github.com/rails/actionpack-xml_parser
+https://github.com/rails/activejob
+https://github.com/rails/activemodel-globalid
+https://github.com/rails/acts_as_list
+https://github.com/rails/conductor
+https://github.com/rails/dynamic_form
+https://github.com/rails/exception_notification
+https://github.com/rails/open_id_authentication
+https://github.com/rails/verification
+
+---
+
+**Deprecate? / Future?**
+
+https://github.com/rails/actionpack-page_caching
+https://github.com/rails/activerecord-deprecated_finders
+https://github.com/rails/activesupport-json_encoder
+https://github.com/rails/cache_digests
+https://github.com/rails/coffee-rails
+https://github.com/rails/commands
+https://github.com/rails/etagger
+https://github.com/rails/journey
+https://github.com/rails/pjax_rails
+https://github.com/rails/prototype_legacy_helper
+https://github.com/rails/prototype-rails
+https://github.com/rails/prototype-ujs
+https://github.com/rails/rails-controller-testing
+https://github.com/rails/rails-deprecated_sanitizer
+https://github.com/rails/rails-observers
+https://github.com/rails/rails_upgrade
+https://github.com/rails/rails_xss
+https://github.com/rails/record_tag_helper
+https://github.com/rails/routing_concerns
+https://github.com/rails/ruby-coffee-script
+
+
+---
+
 - [ActionCable](https://github.com/rails/actioncable)
   - [x] Badges at top of Readme
   - [ ] Changelog.md
@@ -20,8 +60,20 @@
   - [ ] Remove RubyForge from gemspec
   - [ ] License
   - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
-- [ActsAsList](https://github.com/rails/acts_as_list)
-  - [ ] delete respository, no longer in use
+- [ActiveRecordSessionStore](https://github.com/rails/activerecord-session_store)
+  - [ ] Badges at top of Readme
+  - [ ] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [ActiveResource](https://github.com/rails/activeresource)
+  - [x] Badges at top of Readme
+  - [x] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
 - [Arel](https://github.com/rails/arel)
   - [x] Badges at top of Readme
   - [ ] Changelog.md
@@ -50,6 +102,13 @@
   - [ ] Remove RubyForge from gemspec
   - [ ] License
   - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [JQuery Rails](https://github.com/rails/jquery-rails)
+  - [x] Badges at top of Readme
+  - [x] Changelog.md
+  - [x] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
 - [JQuery UJS](https://github.com/rails/jquery-ujs)
   - [ ] Badges at top of Readme
   - [x] Changelog.md
@@ -60,6 +119,13 @@
 - [RailsDomTesting](https://github.com/rails/rails-dom-testing)
   - [x] Badges at top of Readme
   - [ ] Changelog.md
+  - [ ] Contributing.md
+  - [ ] Remove RubyForge from gemspec
+  - [ ] License
+  - [ ] Test Ruby 2.2.2 on Travis, remove 1.9.3
+- [RailsHtmlSanitizer](https://github.com/rails/rails-html-sanitizer)
+  - [ ] Badges at top of Readme
+  - [x] Changelog.md
   - [ ] Contributing.md
   - [ ] Remove RubyForge from gemspec
   - [ ] License
