@@ -112,7 +112,7 @@
 - [ExecJS](https://github.com/rails/execjs)
   - [ ] Badges at top of Readme
   - [ ] Changelog.md
-  - [x] Contributing.md
+  - [ ] Contributing.md
   - [x] Remove RubyForge from gemspec
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
@@ -141,53 +141,58 @@
   - [ ] Badges at top of Readme
   - [x] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [RailsDomTesting](https://github.com/rails/rails-dom-testing)
   - [x] Badges at top of Readme
   - [ ] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
+  - [x] Remove RubyForge from gemspec
+  - [x] License
   - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
 - [RailsHtmlSanitizer](https://github.com/rails/rails-html-sanitizer)
   - [ ] Badges at top of Readme
   - [x] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
+  - [x] Remove RubyForge from gemspec
+  - [x] License
   - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
 - [Spring](https://github.com/rails/spring)
   - [x] Badges at top of Readme
   - [x] Changelog.md
-  - [x] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
+  - [ ] Contributing.md
+  - [x] Remove RubyForge from gemspec
+  - [x] License
   - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
 - [SassRails](https://github.com/rails/sass-rails)
   - [x] Badges at top of Readme
   - [ ] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [Sprockets](https://github.com/rails/sprockets)
   - [ ] Badges at top of Readme
   - [x] Changelog.md
   - [ ] Contributing.md
   - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [SprocketsRails](https://github.com/rails/sprockets-rails)
+  - [ ] Badges at top of Readme
+  - [ ] Changelog.md
+  - [ ] Contributing.md
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+- [Strong Parameters](https://github.com/rails/strong_parameters)
   - [ ] Badges at top of Readme
   - [ ] Changelog.md
   - [ ] Contributing.md
   - [ ] Remove RubyForge from gemspec
   - [ ] License
   - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
-- [Strong Parameters](https://github.com/rails/strong_parameters)
-  - Get deprecation notes ready (gem is only meant for upgrading 3 --> 4)
 - [Turbolinks](https://github.com/rails/turbolinks)
   - [x] Badges at top of Readme
   - [x] Changelog.md
