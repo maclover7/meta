@@ -47,11 +47,15 @@
 
 ---
 
+**To Be Deprecated in 5.0**
+- [ ] https://github.com/rails/activerecord-deprecated_finders
+- [ ] https://github.com/rails/prototype-rails
+- [ ] https://github.com/rails/rails-deprecated_sanitizer
+
 **Deprecate? / Future?**
 
 - [ ] https://github.com/rails/actionpack-page_caching
-- - [ ] https://github.com/rails/actionpack-xml_parser
-- [ ] https://github.com/rails/activerecord-deprecated_finders
+- [ ] https://github.com/rails/actionpack-xml_parser
 - [ ] https://github.com/rails/activesupport-json_encoder
 - [ ] https://github.com/rails/cache_digests
 - [ ] https://github.com/rails/coffee-rails
@@ -59,17 +63,14 @@
 - [ ] https://github.com/rails/etagger
 - [ ] https://github.com/rails/journey
 - [ ] https://github.com/rails/pjax_rails
-- [ ] https://github.com/rails/prototype-rails
 - [ ] https://github.com/rails/prototype-ujs
 - [ ] https://github.com/rails/rails-controller-testing
-- [ ] https://github.com/rails/rails-deprecated_sanitizer
 - [ ] https://github.com/rails/rails-observers
 - [ ] https://github.com/rails/rails_upgrade
 - [ ] https://github.com/rails/rails_xss
 - [ ] https://github.com/rails/record_tag_helper
 - [ ] https://github.com/rails/routing_concerns
 - [ ] https://github.com/rails/ruby-coffee-script
-
 
 ---
 
