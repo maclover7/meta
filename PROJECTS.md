@@ -79,63 +79,63 @@
   - [ ] Changelog.md
   - [ ] Contributing.md
   - [x] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [ActiveModelSerializersXML](https://github.com/rails/activemodel-serializers-xml)
   - [x] Badges at top of Readme
   - [ ] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [ActiveRecordSessionStore](https://github.com/rails/activerecord-session_store)
   - [ ] Badges at top of Readme
   - [ ] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [ActiveResource](https://github.com/rails/activeresource)
   - [x] Badges at top of Readme
   - [x] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [Arel](https://github.com/rails/arel)
   - [x] Badges at top of Readme
-  - [ ] Changelog.md
+  - [x] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [ExecJS](https://github.com/rails/execjs)
   - [ ] Badges at top of Readme
   - [ ] Changelog.md
   - [x] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
-- [GlobalID](https://github.com/rails/gobalid)
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
+- [GlobalID](https://github.com/rails/globalid)
   - [x] Badges at top of Readme
   - [x] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [JBuilder](https://github.com/rails/jbuilder)
   - [x] Badges at top of Readme
   - [x] Changelog.md
   - [ ] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Remove RubyForge from gemspec
+  - [x] License
+  - [] Test Ruby 2.2 on Travis, remove 1.9.3
 - [JQuery Rails](https://github.com/rails/jquery-rails)
   - [x] Badges at top of Readme
   - [x] Changelog.md
-  - [x] Contributing.md
-  - [ ] Remove RubyForge from gemspec
-  - [ ] License
+  - [ ] Contributing.md
+  - [x] Remove RubyForge from gemspec
+  - [x] License
   - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
 - [JQuery UJS](https://github.com/rails/jquery-ujs)
   - [ ] Badges at top of Readme
