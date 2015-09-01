@@ -179,13 +179,13 @@
   - [ ] Remove RubyForge from gemspec
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
-- [SprocketsRails](https://github.com/rails/sprockets-rails)
-  - [ ] Badges at top of Readme
-  - [ ] Changelog.md
-  - [ ] Contributing.md
+- [x] [SprocketsRails](https://github.com/rails/sprockets-rails)
+  - [x] Badges at top of Contributing.md
+  - [x] Changelog.md
+  - [x] Contributing.md
   - [x] Remove RubyForge from gemspec
   - [x] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [ ] Test Ruby 2.2.x on Travis, remove 1.9.3
 - [Strong Parameters](https://github.com/rails/strong_parameters)
   - [ ] Badges at top of Readme
   - [ ] Changelog.md
