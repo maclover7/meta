@@ -109,8 +109,8 @@
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [GlobalID](https://github.com/rails/globalid)
-  - [ ] Badges at top of Contributing.md
-  - [ ] Contributing.md
+  - [x] Badges at top of Contributing.md
+  - [x] Contributing.md
   - [x] Remove RubyForge from gemspec
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
