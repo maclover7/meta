@@ -86,7 +86,7 @@
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [ActiveRecordSessionStore](https://github.com/rails/activerecord-session_store)
-  - [ ] Badges at top of Contributing.md
+  - [x] Badges at top of Contributing.md
   - [x] Remove RubyForge from gemspec
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
