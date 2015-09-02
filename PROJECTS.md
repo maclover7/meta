@@ -145,11 +145,11 @@
   - [x] License
   - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [Spring](https://github.com/rails/spring)
-  - [ ] Badges at top of Contributing.md
-  - [ ] Contributing.md
+  - [x] Badges at top of Contributing.md
+  - [x] Contributing.md
   - [x] Remove RubyForge from gemspec
   - [x] License
-  - [ ] Test Ruby 2.2 on Travis, remove 1.9.3
+  - [x] Test Ruby 2.2 on Travis, remove 1.9.3
 - [SassRails](https://github.com/rails/sass-rails)
   - [ ] Badges at top of Contributing.md
   - [ ] Contributing.md
